@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "iF your texture/models doesnt work try /textures! or rejoin"",
+        "iF your texture/models doesnt work try /textures! or rejoin",
         "if your texture/models doesnt work try /textures! or rejoin",
-        "If your texture/models doesnt work try /textures! or rejoin""
+        "If your texture/models doesnt work try /textures! or rejoin"
       ]
     },
     "chat-log": true,
